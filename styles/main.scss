@@ -1,0 +1,57 @@
+/*Colores personalizados*/
+$primary: #5265E1; 
+$secondary: #FA5959; 
+$gray: #74656584;
+
+.bg-strong-blue {
+  background-color: #031628; 
+}
+
+.btn-gray {
+  background-color: $gray;
+  color: white;
+  border: none;
+}
+
+/*Botón link personalizado*/
+
+.login-link {
+  width: 130px; 
+  text-align: center; 
+  font-weight: bold; 
+ 
+}
+
+/*Margen en el nav */
+.navbar-nav .nav-item {
+  margin: 0 1rem; 
+}
+
+
+.custom-paragraph {
+  white-space: pre;
+}
+
+
+
+/* Hoover en rojo para los enlaces*/
+
+
+.nav-item .nav-link:hover {
+  color: $secondary; 
+}
+
+
+
+.btn-primary:hover {
+  background-color: $secondary; 
+  color: white; 
+}
+
+.link-facebook:hover {
+  background-color: $secondary;
+}
+
+.link-twitter:hover {
+  background-color: $secondary;
+}
