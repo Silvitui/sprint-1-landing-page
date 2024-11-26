@@ -1,5 +1,5 @@
 
-# Proyecto con Bootstrap
+# Sprint 1.2  Bootstrap
 
 Este proyecto utiliza **Node.js** para gestionar dependencias y **Bootstrap** para la estilización del frontend. A continuación, encontrarás las instrucciones para clonar, instalar y ejecutar este proyecto.
 
