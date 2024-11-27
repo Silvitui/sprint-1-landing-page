@@ -54,6 +54,13 @@ Si tienes configurado un servidor (como un `live-server` o un entorno con Webpac
 npm start
 ```
 
+### 1. Abrir la página web 
+
+Hay que seguir el enlace para ver el proyecto ejecutado
+
+[http://192.168.0.21:8080](http://192.168.0.21:8080)
+
+
 ## **Dependencias utilizadas**
 
 Este proyecto usa las siguientes tecnologías:
