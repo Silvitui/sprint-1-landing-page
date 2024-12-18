@@ -1,5 +1,5 @@
 
-# Proyecto con Bootstrap
+# Sprint 1.2  Bootstrap
 
 Este proyecto utiliza **Node.js** para gestionar dependencias y **Bootstrap** para la estilización del frontend. A continuación, encontrarás las instrucciones para clonar, instalar y ejecutar este proyecto.
 
@@ -53,6 +53,13 @@ Si tienes configurado un servidor (como un `live-server` o un entorno con Webpac
 ```bash
 npm start
 ```
+
+### 1. Abrir la página web 
+
+Hay que seguir el enlace para ver el proyecto ejecutado
+
+[http://192.168.0.21:8080](http://192.168.0.21:8080)
+
 
 ## **Dependencias utilizadas**
 
